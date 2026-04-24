@@ -58,6 +58,17 @@ Using STM32CubeProgrammer CLI with an ST-Link probe:
 STM32_Programmer_CLI.exe -c port=swd -d build/Debug/Device-emulator.elf -v -rst
 ```
 
+## VS Code Tasks
+
+Two tasks are available in the VS Code task runner (`Terminal > Run Task`):
+
+| Task | Description |
+|------|-------------|
+| **Build Debug (CMake Preset)** | Configures and builds the project using the `Debug` CMake preset. |
+| **Flash STM32F446 (STLink)** | Flashes the built ELF to any connected NUCLEO board via ST-Link (SWD). Requires STM32CubeCLT installed at `C:/ST/STM32CubeCLT_1.19.0/`. |
+
+> The flash task connects to whichever ST-Link probe is detected automatically. If multiple probes are connected, add `-c port=swd sn=<serial>` to target a specific one.
+
 ## Project Structure
 
 ```

@@ -16,12 +16,12 @@
             ]
         },
         {
-            "label": "Flash STM32F446 (STLink - Probe 1 COM3)",
+            "label": "Flash STM32F446 (STLink)",
             "type": "shell",
             "command": "C:/ST/STM32CubeCLT_1.19.0/STM32CubeProgrammer/bin/STM32_Programmer_CLI.exe",
             "args": [
                 "-c",
-                "port=swd sn=0671FF3833584B3043251810",
+                "port=swd",
                 "-d",
                 "${workspaceFolder}/build/Debug/Device-emulator.elf",
                 "-v",
