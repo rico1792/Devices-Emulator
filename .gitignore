@@ -1,0 +1,33 @@
+# Build output
+build/
+
+# STM32CubeIDE / Eclipse internal state
+.settings/
+
+# Compiled binaries and intermediates (si hors build/)
+*.o
+*.d
+*.a
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+
+# IDE spécifiques
+.cproject
+.project
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+
+# Fichiers temporaires
+*.tmp
+*.bak
+*.swp
+*~
