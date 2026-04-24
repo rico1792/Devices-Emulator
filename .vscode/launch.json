@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug STM32F446 (Cortex-Debug)",
+            "type": "cortex-debug",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "executable": "${workspaceFolder}/build/Debug/PIO_Validation_Tests.elf",
+            "servertype": "stlink",
+            "serverpath": "C:/ST/STM32CubeCLT_1.19.0/STLink-gdb-server/bin/ST-LINK_gdbserver.exe",
+            "gdbPath": "C:/ST/STM32CubeCLT_1.19.0/GNU-tools-for-STM32/bin/arm-none-eabi-gdb.exe",
+            "device": "STM32F446RE",
+            "interface": "swd",
+            "runToEntryPoint": "main",
+            "preLaunchTask": "Build Debug (CMake Preset)",
+            "showDevDebugOutput": "parsed"
+        }
+    ]
+}

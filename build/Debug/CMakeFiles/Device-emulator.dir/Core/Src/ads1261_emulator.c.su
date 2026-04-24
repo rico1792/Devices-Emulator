@@ -1,0 +1,10 @@
+C:/Users/ericb/Documents/Codes/PIO Validation Tests/Device-emulator/Core/Src/ads1261_emulator.c:37:20:trace_push	24	static
+C:/Users/ericb/Documents/Codes/PIO Validation Tests/Device-emulator/Core/Src/ads1261_emulator.c:79:13:reset_state	24	static
+C:/Users/ericb/Documents/Codes/PIO Validation Tests/Device-emulator/Core/Src/ads1261_emulator.c:86:20:spi_put	16	static
+C:/Users/ericb/Documents/Codes/PIO Validation Tests/Device-emulator/Core/Src/ads1261_emulator.c:91:6:ADS1261_Emulator_Init	16	static,ignoring_inline_asm
+C:/Users/ericb/Documents/Codes/PIO Validation Tests/Device-emulator/Core/Src/ads1261_emulator.c:113:6:ADS1261_Emulator_SetADCValue	16	static
+C:/Users/ericb/Documents/Codes/PIO Validation Tests/Device-emulator/Core/Src/ads1261_emulator.c:118:6:ADS1261_Emulator_SetStrictMode	16	static
+C:/Users/ericb/Documents/Codes/PIO Validation Tests/Device-emulator/Core/Src/ads1261_emulator.c:122:6:ADS1261_Emulator_SetDRDYDelayTicks	16	static
+C:/Users/ericb/Documents/Codes/PIO Validation Tests/Device-emulator/Core/Src/ads1261_emulator.c:131:6:ADS1261_Emulator_Tick	16	static
+C:/Users/ericb/Documents/Codes/PIO Validation Tests/Device-emulator/Core/Src/ads1261_emulator.c:143:6:ADS1261_Emulator_SPI_IRQHandler	56	static
+C:/Users/ericb/Documents/Codes/PIO Validation Tests/Device-emulator/Core/Src/ads1261_emulator.c:303:6:ADS1261_Emulator_PopTrace	24	static,ignoring_inline_asm

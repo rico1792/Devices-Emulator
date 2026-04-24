@@ -1,0 +1,6 @@
+C:/Users/ericb/Documents/Codes/PIO Validation Tests/Device-emulator/build/Debug/CMakeFiles/Device-emulator.dir
+C:/Users/ericb/Documents/Codes/PIO Validation Tests/Device-emulator/build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/ericb/Documents/Codes/PIO Validation Tests/Device-emulator/build/Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ericb/Documents/Codes/PIO Validation Tests/Device-emulator/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+C:/Users/ericb/Documents/Codes/PIO Validation Tests/Device-emulator/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/ericb/Documents/Codes/PIO Validation Tests/Device-emulator/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
